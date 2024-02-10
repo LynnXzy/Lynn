@@ -165,8 +165,8 @@ text = typeof conn.menu == 'string' ? conn.menu : typeof conn.menu == 'object' ?
                         mediaType: 1,
                         previewType: 0,
                         renderLargerThumbnail: true,
-                        thumbnailUrl: 'https://telegra.ph/file/3a34bfa58714bdef500d9.jpg',
-                        sourceUrl: 'https://whatsapp.com/channel/0029Va8ZH8fFXUuc69TGVw1q'
+                        thumbnailUrl: 'https://telegra.ph/file/68261f656ddf60740d2e7.jpg',
+                        sourceUrl: 'https://whatsapp.com/channel/0029VaLhfk41XquTnFDHuy45'
                     }
                 }, mentions: [m.sender]
 }}, {})
