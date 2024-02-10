@@ -29,7 +29,7 @@ before: async function (m) {
 
     for (const [sholat, waktu] of Object.entries(jadwalSholat)) {
         if (timeNow === waktu && !(id in this.autosholat)) {
-            let caption = `Hai kak @${who.split`@`[0]},\nWaktu *${sholat}* telah tiba, ambilah air wudhu dan segeralah shalat.\n\n*${waktu}*\n_untuk wilayah Jakarta dan sekitarnya._`
+            let caption = `Assalammualaikum @${who.split`@`[0]},\nWaktu *${sholat}* telah tiba, ambilah air wudhu dan segeralah shalat.\n\n*${waktu}*\n_untuk wilayah Kuching dan sekitarnya._`
             this.autosholat[id] = [
                 this.reply(m.chat, caption, null, {
                     contextInfo: {
