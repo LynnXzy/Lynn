@@ -6,13 +6,13 @@ global.numberowner = '601127905062'
 global.mail = 'botzlynx@gmail.com' 
 global.gc = 'https://chat.whatsapp.com/EheAWPrQMhV25xW0N7l7WD'
 global.instagram = 'https://instagram.com/al_aadiyatt07'
-global.wm = '© Tio'
+global.wm = '© Dibb'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made By'
 global.author = 'Adib'
-global.autobio = false // Set true untuk mengaktifkan autobio
+global.autobio = true // Set true untuk mengaktifkan autobio
 global.maxwarn = '2' // Peringatan maksimum
 
 //INI WAJIB DI ISI!//
